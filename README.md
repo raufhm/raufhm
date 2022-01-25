@@ -1,9 +1,9 @@
 # 💫About Me :
-I’m @raufhm
-I’m interested in Software Engineer, especially in Backend Development
-I’m currently learning Golang
-I’m looking to collaborate on open source project.
-Reach me on https://www.linkedin.com/in/raufhm/
+- I’m @raufhm
+- I’m interested in Software Engineer, especially in Backend Development
+- I’m currently learning Golang
+- I’m looking to collaborate on open source project.
+- Reach me on https://www.linkedin.com/in/raufhm/
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/abdulraufraufhm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/raufhm/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raufhm/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/raufhm) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/3028977/raufhm) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://www.reddit.com/user/raufhm) 
