@@ -1,8 +1,8 @@
 # 💫 About Me :
 - I’m @raufhm
-- I’m interested in Software Engineer, especially in Backend Development
-- I’m currently learning Golang
-- I’m looking to collaborate on open source project.
+- Interested in Software Engineer, especially in Backend Development
+- Currently learning Golang
+- Looking to collaborate on open source project.
 - Reach me on https://www.linkedin.com/in/raufhm/
 
 ## 🌐 Socials
