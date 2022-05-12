@@ -1,4 +1,4 @@
-# 💫 About Me :
+# 🧒 About Me :
 - I’m @raufhm
 - Interested in Software Engineer, especially in Backend Development
 - Currently learning Golang
